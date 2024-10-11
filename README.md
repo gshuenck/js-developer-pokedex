@@ -19,15 +19,8 @@ A **Pokédex** é uma aplicação que permite visualizar informações detalhada
 
 ## Tecnologias Utilizadas
 
-- **Frontend**: React.js, HTML5, CSS3
-- **Backend**: Node.js, Express
+- **Frontend**: HTML5, CSS3, Javascript
+- **Backend**: Node.js,
 - **API**: [PokeAPI](https://pokeapi.co/)
-- **Banco de Dados**: MongoDB (para armazenar favoritos)
 - **Autenticação**: JWT (opcional, caso tenha sistema de login)
-- **Outros**: Axios para requisições HTTP, Redux para gerenciamento de estado
 
-## Instalação
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/pokedex.git
